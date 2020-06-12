@@ -1,0 +1,157 @@
+div.gallery {
+	
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  
+}
+
+div.gallery:hover {
+	
+  border: 1px solid #777;
+  
+}
+
+div.gallery img {
+	
+  width: 100%;
+  height: auto;
+  
+}
+
+div.desc {
+
+  padding: 10px;
+  text-align: left;
+  font-size:12px;
+  
+}
+
+div.desc h6 {
+	
+  text-align: left;
+  margin-top:0%;
+  
+}
+
+div.desc input {
+	
+  position:relative;
+  font-size:14px;
+  float:right;
+  margin-top:8%;
+  
+}
+
+* {
+	
+  box-sizing: border-box;
+  
+}
+
+.precio {
+	
+	margin-left:2%;
+	color:#649d66;
+	width:30%;
+	
+}
+
+.responsive {
+	
+  float:left;
+  position: relative;
+  border-radius: 5px;
+  margin-left:2%;
+  margin-bottom:2%;
+  
+  width: 30.6%;
+}
+
+.descr {
+	
+	float:right;
+	margin-right:2%;
+	margin-left:1%;
+	margin-top:3%;
+	
+}
+
+p.titu {
+	
+	font-weight:bold;
+	
+}
+
+.dividi {
+	
+	margin-bottom:3%;
+}
+
+@media only screen and (max-width: 900px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.tod {
+	
+	float: left;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
